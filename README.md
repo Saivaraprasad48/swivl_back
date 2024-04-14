@@ -11,6 +11,12 @@
 - Used encapsulation principles for database interactions within class methods.
 - Designed routes for user registration, login, and profile management.
 - Implemented routes for CRUD operations on diary entries.
-- Used middleware for authentication to secure the API.
+- Used middlewares for authentication to secure the API.
+
+
+It is deployed on render platform and access based on
+```bash
+https://swivl-backend-4g6m.onrender.com
+```
 
 
