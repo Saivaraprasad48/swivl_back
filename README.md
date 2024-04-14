@@ -1,1 +1,16 @@
-### The diary application for backend
+## This is Travel Diary Platform Backend with `Express`, `Zod`, `Nodemon`, `JWT`, `Mongoose`
+
+### It allowing users to create, read, update, and delete travel entries.
+
+### Functionality 
+- Implemented methods for user registration, login, and profile management.
+- Ensured validation and error handling were in place for all user-related activities.
+- Incorporated authentication methods like JWT for secure access.
+- Developed methods for CRUD operations on diary entries.
+- Ensured validation and error handling for diary entry operations.
+- Used encapsulation principles for database interactions within class methods.
+- Designed routes for user registration, login, and profile management.
+- Implemented routes for CRUD operations on diary entries.
+- Used middleware for authentication to secure the API.
+
+
