@@ -16,7 +16,28 @@
 
 It is deployed on render platform and access based on
 ```bash
-https://swivl-backend-4g6m.onrender.com
+    https://swivl-backend-4g6m.onrender.com
 ```
 
+#### EACH API DOCUMENTATION
 
+1. User Registration:
+
+   ```bash
+    https://swivl-backend-4g6m.onrender.com/user/register
+   ```
+## Output
+  ```json
+    {
+    "message": "User registered successfully"
+    }
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the React app:
+   ```bash
+   npm run dev
+   ```
