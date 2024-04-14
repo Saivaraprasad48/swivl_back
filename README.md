@@ -1,4 +1,4 @@
-![image](https://github.com/Saivaraprasad48/swivl_back/assets/93783719/ddca436c-3ffb-489a-b8d3-f394513038fb)## This is Travel Diary Platform Backend with `Express`, `Zod`, `Nodemon`, `JWT`, `Mongoose`
+## This is Travel Diary Platform Backend with `Express`, `Zod`, `Nodemon`, `JWT`, `Mongoose`
 
 ### It allowing users to create, read, update, and delete travel entries.
 
