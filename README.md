@@ -19,8 +19,23 @@ It is deployed on render platform and access based on
     https://swivl-backend-4g6m.onrender.com
 ```
 
+### Setup
+1. Clone the repository
+    ```bash
+    https://github.com/Saivaraprasad48/swivl_back.git
+   ```
 
-
+2. Open in the code editor
+3. Setup required mongoURL & JWT_SECRET in env 
+4. Install required dependencies
+ ```bash
+    npm install express zod nodemon mongoose bcrypt jsonwebtoken body-parse
+   ```
+5. Run the application server 
+ ```bash
+    nodemon index.js
+   ```
+ 
 #### EACH API DOCUMENTATION
 
 1. User Registration:
