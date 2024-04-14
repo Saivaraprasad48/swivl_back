@@ -19,6 +19,8 @@ It is deployed on render platform and access based on
     https://swivl-backend-4g6m.onrender.com
 ```
 
+
+
 #### EACH API DOCUMENTATION
 
 1. User Registration:
@@ -201,3 +203,19 @@ It is deployed on render platform and access based on
 ![image](https://github.com/Saivaraprasad48/swivl_back/assets/93783719/3eaaf0ef-84ba-4c03-9ef9-610bf225b220)
 
 
+### 1. Fully Functional API
+Developed a robust backend API using Node.js and Express.js, allowing users to perform CRUD operations on travel diary entries. Implemented user authentication, registration, login, and profile management functionalities to ensure secure access to the platform.
+
+### 2. Object-Oriented Design
+Utilized Object-Oriented Programming (OOP) principles to design and implement User and Diary Entry classes. Encapsulated database interactions within class methods, promoting code reusability, maintainability, and scalability.
+
+### 3. Database Integration
+ Integrated a database system to store user and travel diary entry data. Designed and implemented schemas for User and Diary Entry models, ensuring data consistency and integrity. Populated the database with sample data for demonstration purposes.
+
+### 4. Authentication and Security
+Incorporated JWT authentication for secure access to the API, enhancing user authentication and authorization processes. Implemented validation and error handling mechanisms to ensure data integrity and prevent unauthorized access.
+
+### 5. Comprehensive Documentation
+ Created a detailed README file with setup and usage instructions, including installation steps, API endpoint documentation with request/response formats and examples, and highlights of the application of OOP concepts in the project.
+
+Thank you :)
